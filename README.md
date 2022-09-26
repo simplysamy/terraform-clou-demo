@@ -1,1 +1,1 @@
-# terraform-clou-demo
+# terraform-cloud-demo
